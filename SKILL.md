@@ -3,7 +3,7 @@ name: kbo-resilience
 description: Build sustained resilience for prolonged difficulty using Winston Churchill's "Keep Buggering On" philosophy combined with practical coping mechanisms.
 license: MIT
 metadata:
-  version: 1.0.4339
+  version: 1.0.4340
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
